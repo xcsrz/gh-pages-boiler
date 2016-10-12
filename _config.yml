@@ -1,0 +1,9 @@
+name: Jekyll Bootstrap Starter
+headline: A bare template to start off a jekyll built bootstrap site
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+exclude: ["Makefile"]
+sass:
+  style: compressed
+  sass_dir: _bootstrap
