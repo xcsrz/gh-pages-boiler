@@ -3,6 +3,9 @@
 default: 
 	@echo you must select a specific target
 
+serve:
+	@jekyll serve
+
 update-bootstrap:
 	@git clone https://github.com/twbs/bootstrap-sass.git
 	@cd bootstrap-sass && git checkout 3.3-stable
