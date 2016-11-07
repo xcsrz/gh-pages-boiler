@@ -1,5 +1,7 @@
-name: Jekyll Bootstrap Starter
+name: Jekyll Bootstrap Boilerplate
 headline: A bare template to start off a jekyll built bootstrap site
+description: A bare template to start off a jekyll built bootstrap site
+author: xcsrz
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
